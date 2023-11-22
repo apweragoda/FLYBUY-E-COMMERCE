@@ -66,11 +66,11 @@ For Microservices:
 
 3. Follow the README in each directory for specific setup instructions.
 
-##Contribution Guidelines
+## Contribution Guidelines
 If you wish to contribute to the project, please follow the guidelines outlined in [CONTRIBUTING.md].
 
-##License
+## License
 This project is licensed under the [MIT License] - see the [LICENSE.md] file for details.
 
-##Acknowledgments
+## Acknowledgments
 Special thanks to [contributors or libraries/tools used in the project].
