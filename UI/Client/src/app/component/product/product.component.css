@@ -1,0 +1,26 @@
+.product-container{
+    cursor: pointer;
+    max-width: 300px;
+}
+
+.product-img{
+    overflow: hidden !important;
+}
+
+
+.product-img img {
+    transition: transform .5s ease;
+}
+
+.product-img:hover img {
+    transform: scale(1.2);
+}
+.product__hover {
+  padding: 10px;
+}
+
+.img-border-round{
+  border-style: double;
+  border-radius: 2rem;
+  border-color: black;
+}

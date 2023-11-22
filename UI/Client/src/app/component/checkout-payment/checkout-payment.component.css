@@ -1,0 +1,26 @@
+.option{
+    padding: 10px;
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    border-radius: 5px;
+    margin-bottom: 15px;
+    width: 100%;
+    background-color: #f9f9f9;
+    cursor: pointer;
+}
+
+
+input[type="radio"]{
+    display: none;
+}
+
+input[type="radio"]:disabled label{
+    color: #ccfbe8 !important;
+}
+
+input:checked + label {
+    border: 2px solid #26c485;
+    background-color: #ccfbe8;
+}
+.sub-title{
+  text-align: center;
+}

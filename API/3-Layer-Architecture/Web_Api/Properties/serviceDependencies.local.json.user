@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "secrets1": {
+      "restored": true,
+      "restoreTime": "2022-06-25T13:42:33.8171121Z"
+    },
+    "appInsights1": {
+      "restored": true,
+      "restoreTime": "2022-06-25T13:42:01.6536336Z"
+    }
+  },
+  "parameters": {}
+}

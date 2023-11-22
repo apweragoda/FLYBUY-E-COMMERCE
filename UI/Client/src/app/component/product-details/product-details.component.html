@@ -1,0 +1,184 @@
+<section class="single-product">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-5">
+        <div class="single-product-slider">
+          <div
+            class="carousel slide"
+            data-ride="carousel"
+            id="single-product-slider"
+          >
+            <div class="carousel-inner">
+              <div class="carousel-item active">
+                <img
+                  src="{{ product.image }}"
+                  alt=""
+                  class="img-fluid img-border-round"
+                />
+              </div>
+              <div class="carousel-item">
+                <img
+                  src="{{ product.image }}"
+                  alt=""
+                  class="img-fluid img-border-round"
+                />
+              </div>
+              <div class="carousel-item">
+                <img
+                  src="{{ product.image }}"
+                  alt=""
+                  class="img-fluid img-border-round"
+                />
+              </div>
+            </div>
+            <ol class="carousel-indicators">
+              <li
+                data-target="#single-product-slider"
+                data-slide-to="0"
+                class="active"
+              >
+                <img
+                  src="{{ product.image }}"
+                  alt=""
+                  class="img-fluid img-border-round"
+                />
+              </li>
+              <li data-target="#single-product-slider" data-slide-to="1">
+                <img
+                  src="{{ product.image }}"
+                  alt=""
+                  class="img-fluid img-border-round"
+                />
+              </li>
+              <li data-target="#single-product-slider" data-slide-to="2">
+                <img
+                  src="{{ product.image }}"
+                  alt=""
+                  class="img-fluid img-border-round"
+                />
+              </li>
+            </ol>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-4">
+        <div class="container">
+          <div class="row">
+            <div class="cart">
+              <div class="single-product-details mt-5 mt-lg-0">
+                <h2>{{ product.name }}</h2>
+                <div class="sku_wrapper mb-4">
+                  SKU: <span class="text-muted">AB100{{ product.id }} </span>
+                </div>
+                <hr />
+
+                <h3 class="product-price">
+                  ${{ product.price }} <del>${{ product.price + 37 }}</del>
+                </h3>
+
+                <p class="product-description my-4">
+                  {{ product.description }}
+                </p>
+                <form>
+                  <div class="quantity d-flex align-items-center">
+                    <button
+                      type="button"
+                      class="btn btn-main btn-small"
+                      (click)="addToCart()"
+                    >
+                      Add to cart
+                    </button>
+                  </div>
+                </form>
+              </div>
+
+              <div class="color-swatches mt-4 d-flex align-items-center">
+                <ul class="list-inline mb-0">
+                  <li class="list-inline-item">
+                    <a routerLink="/product-single" class="bg-info"></a>
+                  </li>
+                  <li class="list-inline-item">
+                    <a routerLink="/product-single" class="bg-dark"></a>
+                  </li>
+                  <li class="list-inline-item">
+                    <a routerLink="/product-single" class="bg-danger"></a>
+                  </li>
+                </ul>
+              </div>
+            </div>
+            <div class="row">
+              <div class="products-meta mt-4">
+                <div class="product-category d-flex align-items-center">
+                  <span
+                    class="font-weight-bold text-capitalize product-meta-title"
+                    >Categories :</span
+                  >
+                  <a href="#">Products , </a>
+                  <a href="/products/{{ product.category }}">{{
+                    product.category
+                  }}</a>
+                </div>
+              </div>
+              <div class="row">
+                <div class="product-share mt-2">
+                  <div class="share">
+                    <ul class="list-inline">
+                      <li class="list-inline-item">
+                        <a href="#"><i class="tf-ion-social-facebook"></i></a>
+                      </li>
+                      <li class="list-inline-item">
+                        <a href="#"><i class="tf-ion-social-twitter"></i></a>
+                      </li>
+                      <li class="list-inline-item">
+                        <a href="#"><i class="tf-ion-social-linkedin"></i></a>
+                      </li>
+                      <li class="list-inline-item">
+                        <a href="#"><i class="tf-ion-social-pinterest"></i></a>
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+    <section class="page-header">
+      <div class="overly"></div>
+      <div class="container">
+        <div class="row justify-content-center">
+          <div class="col-lg-6">
+            <div class="content text-center">
+              <h1 class="mb-3">Suggested Products</h1>
+              <p>The Top Online Shopping Expirience</p>
+              <nav aria-label="breadcrumb">
+                <ol class="breadcrumb bg-transparent justify-content-center">
+                  <li class="breadcrumb-item"><a routerLink="/">Home</a></li>
+                  <li class="breadcrumb-item active" aria-current="page">
+                    Product Details
+                  </li>
+                </ol>
+              </nav>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section class="products related-products section">
+      <div class="container">
+        <div class="row">
+          <div class="row property__gallery">
+            <div
+              class="col-3 col-lg-3 col-md-4 col-sm-6 mix"
+              *ngFor="let product of products"
+              style="cursor: pointer"
+            >
+              <app-product [product]="product"></app-product>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>

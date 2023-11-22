@@ -1,0 +1,83 @@
+<div class="container-md">
+  <div class="cart-container">
+    <div *ngIf="cart.length == 0">
+      <h3 class="text-secondary text-center">
+        No Products in the Cart !
+      </h3>
+    </div>
+    <div *ngIf="cart.length > 0">
+      <div class="row">
+        <h6 class="col-7 fs-4">Item</h6>
+        <h6 class="col-2 fs-4">Quantity</h6>
+        <h6 class="col-2 fs-4">Price</h6>
+        <span class="col-1"></span>
+      </div>
+      <hr />
+
+      <div>
+        <div *ngFor="let item of cart" class="row mb-3">
+          <div class="col-7 d-flex align-items-center">
+            <img
+              src="{{ item.product.image }}"
+              alt=""
+              style="width: 70px"
+              class="me-4"
+            />
+            <p class="">
+              {{ item.product.name | uppercase }},
+              <span class="fw-bold">{{ item.size | uppercase }}</span>
+            </p>
+          </div>
+          <div class="col-2 align-self-center mb-2">
+            <label
+              >Quantity:<select
+                [name]="'quantity' + item.quantity"
+                id=""
+                class="quantity"
+                [value]="item.quantity"
+              >
+                <option value="1">1</option>
+                <option value="2">2</option>
+                <option value="3">3</option>
+                <option value="4">4</option>
+                <option value="5">5</option>
+                <option value="6">6</option>
+                <option value="7">7</option>
+                <option value="8">8</option>
+                <option value="9">9</option>
+                <option value="10">10</option>
+              </select></label
+            >
+          </div>
+
+          <p class="col-2 align-self-center">$ {{ item.product.price }}</p>
+          <button
+            class="col-1 align-self-center text-red-50"
+            (click)="removeItem(item)"
+          >
+            Remove
+          </button>
+        </div>
+        <div class="row">
+          <div class="col-7"></div>
+          <div class="col-2 fw-bold total">
+            <p>Total</p>
+          </div>
+          <div class="col-2 fw-bold total">
+            <p>$ {{ total }}</p>
+          </div>
+          <div class="col-1"></div>
+        </div>
+
+        <div
+          class="mt-5 d-flex flex-column flex-sm-row justify-content-between"
+        >
+          <button class="btn btn-dark" (click)="goToPreviousPage()">
+            Continue Shopping
+          </button>
+          <button class="btn btn-danger" (click)="checkout()">Checkout</button>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

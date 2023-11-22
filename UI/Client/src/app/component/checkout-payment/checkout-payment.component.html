@@ -1,0 +1,22 @@
+<div class="mt-5">
+  <h3 class="mt-4 sub-title">Payment Method</h3>
+  <hr>
+  <div>
+    <input
+      type="radio"
+      name="delivery"
+      id="standard"
+      value="cash on delivery"
+    />
+    <label for="standard" class="option"> Cash on Delivery </label>
+  </div>
+  <div class="mt-5 d-flex justify-content-between">
+    <button class="btn text-secondary" (click)="goBackToShipping()">
+      Shipping
+    </button>
+    <button class="btn btn-danger align-items-center" (click)="confirmOrder()">
+      Confirm Order &nbsp;
+
+    </button>
+  </div>
+</div>

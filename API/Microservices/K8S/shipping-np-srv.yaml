@@ -1,0 +1,13 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: shippingnpservice-srv
+spec:
+  type: NodePort
+  selector:
+    app: shippingservice
+  ports:
+    - name: shippingservice
+      protocol: TCP
+      port: 80
+      targetPort: 80

@@ -1,0 +1,38 @@
+<div class="mt-2">
+  <h3 class="mt-4 sub-title">Shipping Options</h3>
+  <hr />
+
+  <div *ngFor="let option of shippingOption">
+    <input
+      type="radio"
+      id="{{ option.type }}"
+      value="{{ option.type }}"
+      [checked]="option.type == 'standard'"
+      (change)="setShippingOptions(option.type)"
+    />
+    <label
+      for="{{ option.type }}"
+      class="option d-flex justify-content-between"
+    >
+      <div>
+        <div>{{ option.type | titlecase }} Shipping</div>
+        <div class="text-secondary" style="font-size: 13px">
+          Expected delivery on: {{ calculateDays(option.days) }}
+        </div>
+      </div>
+      <span>$ {{ option.price }}</span>
+    </label>
+  </div>
+
+  <div class="mt-5 d-flex justify-content-between">
+    <button class="btn text-secondary" (click)="routeToInformation()">
+      Information
+    </button>
+    <button
+      class="btn btn-danger align-items-center"
+      (click)="routeToPayment()"
+    >
+      Continue to Payment &nbsp;
+    </button>
+  </div>
+</div>

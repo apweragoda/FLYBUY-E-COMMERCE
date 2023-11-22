@@ -1,0 +1,294 @@
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\API\Fly_Buy\Web_Api\obj\Debug\netcoreapp3.1\Web_Api.csproj.AssemblyReference.cache
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\API\Fly_Buy\Web_Api\obj\Debug\netcoreapp3.1\Web_Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\API\Fly_Buy\Web_Api\obj\Debug\netcoreapp3.1\Web_Api.AssemblyInfoInputs.cache
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\API\Fly_Buy\Web_Api\obj\Debug\netcoreapp3.1\Web_Api.AssemblyInfo.cs
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\API\Fly_Buy\Web_Api\obj\Debug\netcoreapp3.1\Web_Api.csproj.CoreCompileInputs.cache
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\API\Fly_Buy\Web_Api\obj\Debug\netcoreapp3.1\Web_Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\API\Fly_Buy\Web_Api\obj\Debug\netcoreapp3.1\Web_Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\API\Fly_Buy\Web_Api\obj\Debug\netcoreapp3.1\Web_Api.dll
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\API\Fly_Buy\Web_Api\obj\Debug\netcoreapp3.1\Web_Api.pdb
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Web_Api.exe
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Web_Api.deps.json
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Web_Api.runtimeconfig.json
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Web_Api.runtimeconfig.dev.json
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Web_Api.dll
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Web_Api.pdb
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Microsoft.Azure.Services.AppAuthentication.dll
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Serilog.dll
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Serilog.AspNetCore.dll
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Serilog.Extensions.Hosting.dll
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.dll
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Serilog.Formatting.Compact.dll
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Serilog.Settings.Configuration.dll
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Serilog.Sinks.Console.dll
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Serilog.Sinks.Debug.dll
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Serilog.Sinks.File.dll
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Serilog.Sinks.MSSqlServer.dll
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Serilog.Sinks.PeriodicBatching.dll
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Business_Logic_Layer.dll
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Data_Access_Layer.dll
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Business_Logic_Layer.pdb
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Data_Access_Layer.pdb
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\API\Fly_Buy\Web_Api\obj\Debug\netcoreapp3.1\staticwebassets\Web_Api.StaticWebAssets.Manifest.cache
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\API\Fly_Buy\Web_Api\obj\Debug\netcoreapp3.1\staticwebassets\Web_Api.StaticWebAssets.xml
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\API\Fly_Buy\Web_Api\obj\Debug\netcoreapp3.1\scopedcss\bundle\Web_Api.styles.css
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\API\Fly_Buy\Web_Api\obj\Debug\netcoreapp3.1\Web_Api.RazorTargetAssemblyInfo.cache
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\API\Fly_Buy\Web_Api\obj\Debug\netcoreapp3.1\Web_Api.genruntimeconfig.cache
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\API\Fly_Buy\Web_Api\obj\Debug\netcoreapp3.1\Web_Api.csproj.CopyComplete
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\E-Commerce-Website\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\E-Commerce-Website\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\E-Commerce-Website\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Web_Api.exe
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\E-Commerce-Website\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Web_Api.deps.json
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\E-Commerce-Website\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Web_Api.runtimeconfig.json
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\E-Commerce-Website\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Web_Api.runtimeconfig.dev.json
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\E-Commerce-Website\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Web_Api.dll
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\E-Commerce-Website\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Web_Api.pdb
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\E-Commerce-Website\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\E-Commerce-Website\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\E-Commerce-Website\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\E-Commerce-Website\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\E-Commerce-Website\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\E-Commerce-Website\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\E-Commerce-Website\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\E-Commerce-Website\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Microsoft.Azure.Services.AppAuthentication.dll
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\E-Commerce-Website\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\E-Commerce-Website\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\E-Commerce-Website\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\E-Commerce-Website\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\E-Commerce-Website\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\E-Commerce-Website\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\E-Commerce-Website\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\E-Commerce-Website\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\E-Commerce-Website\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\E-Commerce-Website\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\E-Commerce-Website\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\E-Commerce-Website\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\E-Commerce-Website\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\E-Commerce-Website\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\E-Commerce-Website\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\E-Commerce-Website\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\E-Commerce-Website\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\E-Commerce-Website\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\E-Commerce-Website\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\E-Commerce-Website\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\E-Commerce-Website\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\E-Commerce-Website\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\E-Commerce-Website\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\E-Commerce-Website\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\E-Commerce-Website\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\E-Commerce-Website\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\E-Commerce-Website\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\E-Commerce-Website\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\E-Commerce-Website\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\E-Commerce-Website\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\E-Commerce-Website\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\E-Commerce-Website\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\E-Commerce-Website\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\E-Commerce-Website\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Serilog.dll
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\E-Commerce-Website\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Serilog.AspNetCore.dll
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\E-Commerce-Website\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Serilog.Extensions.Hosting.dll
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\E-Commerce-Website\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.dll
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\E-Commerce-Website\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Serilog.Formatting.Compact.dll
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\E-Commerce-Website\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Serilog.Settings.Configuration.dll
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\E-Commerce-Website\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Serilog.Sinks.Console.dll
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\E-Commerce-Website\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Serilog.Sinks.Debug.dll
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\E-Commerce-Website\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Serilog.Sinks.File.dll
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\E-Commerce-Website\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Serilog.Sinks.MSSqlServer.dll
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\E-Commerce-Website\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Serilog.Sinks.PeriodicBatching.dll
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\E-Commerce-Website\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\E-Commerce-Website\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\E-Commerce-Website\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\E-Commerce-Website\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\E-Commerce-Website\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\E-Commerce-Website\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\E-Commerce-Website\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\E-Commerce-Website\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\E-Commerce-Website\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\E-Commerce-Website\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\E-Commerce-Website\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\E-Commerce-Website\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\E-Commerce-Website\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\E-Commerce-Website\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\E-Commerce-Website\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\E-Commerce-Website\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\E-Commerce-Website\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\E-Commerce-Website\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\E-Commerce-Website\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Business_Logic_Layer.dll
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\E-Commerce-Website\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Data_Access_Layer.dll
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\E-Commerce-Website\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Business_Logic_Layer.pdb
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\E-Commerce-Website\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Data_Access_Layer.pdb
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\E-Commerce-Website\API\Fly_Buy\Web_Api\obj\Debug\netcoreapp3.1\Web_Api.csproj.AssemblyReference.cache
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\E-Commerce-Website\API\Fly_Buy\Web_Api\obj\Debug\netcoreapp3.1\Web_Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\E-Commerce-Website\API\Fly_Buy\Web_Api\obj\Debug\netcoreapp3.1\Web_Api.AssemblyInfoInputs.cache
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\E-Commerce-Website\API\Fly_Buy\Web_Api\obj\Debug\netcoreapp3.1\Web_Api.AssemblyInfo.cs
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\E-Commerce-Website\API\Fly_Buy\Web_Api\obj\Debug\netcoreapp3.1\Web_Api.csproj.CoreCompileInputs.cache
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\E-Commerce-Website\API\Fly_Buy\Web_Api\obj\Debug\netcoreapp3.1\Web_Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\E-Commerce-Website\API\Fly_Buy\Web_Api\obj\Debug\netcoreapp3.1\Web_Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\E-Commerce-Website\API\Fly_Buy\Web_Api\obj\Debug\netcoreapp3.1\staticwebassets\Web_Api.StaticWebAssets.Manifest.cache
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\E-Commerce-Website\API\Fly_Buy\Web_Api\obj\Debug\netcoreapp3.1\staticwebassets\Web_Api.StaticWebAssets.xml
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\E-Commerce-Website\API\Fly_Buy\Web_Api\obj\Debug\netcoreapp3.1\scopedcss\bundle\Web_Api.styles.css
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\E-Commerce-Website\API\Fly_Buy\Web_Api\obj\Debug\netcoreapp3.1\Web_Api.RazorTargetAssemblyInfo.cache
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\E-Commerce-Website\API\Fly_Buy\Web_Api\obj\Debug\netcoreapp3.1\Web_Api.dll
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\E-Commerce-Website\API\Fly_Buy\Web_Api\obj\Debug\netcoreapp3.1\Web_Api.pdb
+C:\Users\CRUSHER\Documents\Visual Studio 2019\VIRTUSA\E-Commerce-Website\API\Fly_Buy\Web_Api\obj\Debug\netcoreapp3.1\Web_Api.genruntimeconfig.cache
+D:\Workplace\VIRTUSA\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Workplace\VIRTUSA\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Workplace\VIRTUSA\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Web_Api.exe
+D:\Workplace\VIRTUSA\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Web_Api.deps.json
+D:\Workplace\VIRTUSA\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Web_Api.runtimeconfig.json
+D:\Workplace\VIRTUSA\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Web_Api.runtimeconfig.dev.json
+D:\Workplace\VIRTUSA\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Web_Api.dll
+D:\Workplace\VIRTUSA\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Web_Api.pdb
+D:\Workplace\VIRTUSA\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\Workplace\VIRTUSA\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Workplace\VIRTUSA\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Workplace\VIRTUSA\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Workplace\VIRTUSA\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Workplace\VIRTUSA\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\Workplace\VIRTUSA\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Workplace\VIRTUSA\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Microsoft.Azure.Services.AppAuthentication.dll
+D:\Workplace\VIRTUSA\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Workplace\VIRTUSA\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Workplace\VIRTUSA\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Workplace\VIRTUSA\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Workplace\VIRTUSA\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Workplace\VIRTUSA\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Workplace\VIRTUSA\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Workplace\VIRTUSA\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Workplace\VIRTUSA\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Workplace\VIRTUSA\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Workplace\VIRTUSA\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Workplace\VIRTUSA\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Workplace\VIRTUSA\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Workplace\VIRTUSA\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Workplace\VIRTUSA\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Workplace\VIRTUSA\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\Workplace\VIRTUSA\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Workplace\VIRTUSA\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Workplace\VIRTUSA\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\Workplace\VIRTUSA\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\Workplace\VIRTUSA\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Workplace\VIRTUSA\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Workplace\VIRTUSA\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Workplace\VIRTUSA\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Workplace\VIRTUSA\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Workplace\VIRTUSA\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+D:\Workplace\VIRTUSA\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Workplace\VIRTUSA\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Workplace\VIRTUSA\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Workplace\VIRTUSA\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Workplace\VIRTUSA\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Workplace\VIRTUSA\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Workplace\VIRTUSA\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Workplace\VIRTUSA\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\Workplace\VIRTUSA\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Serilog.dll
+D:\Workplace\VIRTUSA\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Serilog.AspNetCore.dll
+D:\Workplace\VIRTUSA\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Serilog.Extensions.Hosting.dll
+D:\Workplace\VIRTUSA\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.dll
+D:\Workplace\VIRTUSA\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Serilog.Formatting.Compact.dll
+D:\Workplace\VIRTUSA\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Serilog.Settings.Configuration.dll
+D:\Workplace\VIRTUSA\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Serilog.Sinks.Console.dll
+D:\Workplace\VIRTUSA\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Serilog.Sinks.Debug.dll
+D:\Workplace\VIRTUSA\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Serilog.Sinks.File.dll
+D:\Workplace\VIRTUSA\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Serilog.Sinks.MSSqlServer.dll
+D:\Workplace\VIRTUSA\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Serilog.Sinks.PeriodicBatching.dll
+D:\Workplace\VIRTUSA\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Workplace\VIRTUSA\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Workplace\VIRTUSA\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Workplace\VIRTUSA\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Workplace\VIRTUSA\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Workplace\VIRTUSA\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Workplace\VIRTUSA\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Workplace\VIRTUSA\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Workplace\VIRTUSA\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\Workplace\VIRTUSA\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Workplace\VIRTUSA\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Workplace\VIRTUSA\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Workplace\VIRTUSA\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Workplace\VIRTUSA\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Workplace\VIRTUSA\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Workplace\VIRTUSA\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Workplace\VIRTUSA\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Workplace\VIRTUSA\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Workplace\VIRTUSA\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Business_Logic_Layer.dll
+D:\Workplace\VIRTUSA\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Data_Access_Layer.dll
+D:\Workplace\VIRTUSA\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Business_Logic_Layer.pdb
+D:\Workplace\VIRTUSA\API\Fly_Buy\Web_Api\bin\Debug\netcoreapp3.1\Data_Access_Layer.pdb
+D:\Workplace\VIRTUSA\API\Fly_Buy\Web_Api\obj\Debug\netcoreapp3.1\Web_Api.csproj.AssemblyReference.cache
+D:\Workplace\VIRTUSA\API\Fly_Buy\Web_Api\obj\Debug\netcoreapp3.1\Web_Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workplace\VIRTUSA\API\Fly_Buy\Web_Api\obj\Debug\netcoreapp3.1\Web_Api.AssemblyInfoInputs.cache
+D:\Workplace\VIRTUSA\API\Fly_Buy\Web_Api\obj\Debug\netcoreapp3.1\Web_Api.AssemblyInfo.cs
+D:\Workplace\VIRTUSA\API\Fly_Buy\Web_Api\obj\Debug\netcoreapp3.1\Web_Api.csproj.CoreCompileInputs.cache
+D:\Workplace\VIRTUSA\API\Fly_Buy\Web_Api\obj\Debug\netcoreapp3.1\Web_Api.MvcApplicationPartsAssemblyInfo.cs
+D:\Workplace\VIRTUSA\API\Fly_Buy\Web_Api\obj\Debug\netcoreapp3.1\Web_Api.MvcApplicationPartsAssemblyInfo.cache
+D:\Workplace\VIRTUSA\API\Fly_Buy\Web_Api\obj\Debug\netcoreapp3.1\staticwebassets\Web_Api.StaticWebAssets.Manifest.cache
+D:\Workplace\VIRTUSA\API\Fly_Buy\Web_Api\obj\Debug\netcoreapp3.1\staticwebassets\Web_Api.StaticWebAssets.Pack.cache
+D:\Workplace\VIRTUSA\API\Fly_Buy\Web_Api\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.Web_Api.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Workplace\VIRTUSA\API\Fly_Buy\Web_Api\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.Web_Api.props
+D:\Workplace\VIRTUSA\API\Fly_Buy\Web_Api\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.Web_Api.props
+D:\Workplace\VIRTUSA\API\Fly_Buy\Web_Api\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.Web_Api.props
+D:\Workplace\VIRTUSA\API\Fly_Buy\Web_Api\obj\Debug\netcoreapp3.1\Web_Api.RazorTargetAssemblyInfo.cache
+D:\Workplace\VIRTUSA\API\Fly_Buy\Web_Api\obj\Debug\netcoreapp3.1\Web_Api.csproj.CopyComplete
+D:\Workplace\VIRTUSA\API\Fly_Buy\Web_Api\obj\Debug\netcoreapp3.1\Web_Api.dll
+D:\Workplace\VIRTUSA\API\Fly_Buy\Web_Api\obj\Debug\netcoreapp3.1\Web_Api.pdb
+D:\Workplace\VIRTUSA\API\Fly_Buy\Web_Api\obj\Debug\netcoreapp3.1\Web_Api.genruntimeconfig.cache

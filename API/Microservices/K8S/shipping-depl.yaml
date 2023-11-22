@@ -1,0 +1,35 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: shipping-depl
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: shippingservice
+  template:
+    metadata:
+      labels:
+        app: shippingservice
+    spec:
+      containers:
+        - name: shippingservice
+          image: crusher1224/shippingservice:latest
+          resources:
+            limits:
+              memory: '128Mi'
+              cpu: '500m'
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: shipping-clusterip-srv
+spec:
+  type: ClusterIP
+  selector:
+    app: shippingservice
+  ports:
+    - name: shippingservice
+      protocol: TCP
+      port: 80
+      targetPort: 80

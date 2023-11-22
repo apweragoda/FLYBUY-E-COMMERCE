@@ -1,0 +1,58 @@
+
+<div class="container">
+  <div class="row">
+    <div class="col-sm-6 col-md-4 col-md-offset-4">
+      <div class="account-wall">
+        <img class="header_logo" src="/assets/img/logo.png" alt="" />
+        <form class="form-signin" [formGroup]="form" (submit)="onLogin()">
+          <input
+            type="email"
+            class="form-control login-margin"
+            id="email"
+            required
+            autofocus
+            formControlName="email"
+            [ngClass]="{ 'is-invalid': isValid('email') }"
+              placeholder="Email"
+              required
+              autofocus
+          />
+          <div class="invalid-feedback"
+            *ngIf="form.get('email')?.errors?.['required']"
+          >
+            Email is required.
+          </div>
+          <input
+            type="password"
+            class="form-control "
+            id="password"
+            required
+            autofocus
+            formControlName="password"
+            [ngClass]="{ 'is-invalid': isValid('password') }"
+              placeholder="Password"
+              required
+              autofocus
+          />
+          <div class="invalid-feedback"
+            *ngIf="form.get('password')?.errors?.['required']"
+          >
+            Password is required.
+          </div>
+          <button class="btn btn-lg btn-primary btn-block" type="submit">
+            Sign in
+          </button>
+          <label class="checkbox pull-left">
+            <input type="checkbox" value="remember-me" />
+            Remember me
+          </label>
+          <a href="#" class="pull-right need-help">Need help? </a
+          ><span class="clearfix"></span>
+        </form>
+      </div>
+      <a routerLink="/signup" class="text-center new-account"
+        >Create an account
+      </a>
+    </div>
+  </div>
+</div>

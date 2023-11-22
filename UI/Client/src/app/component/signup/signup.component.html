@@ -1,0 +1,82 @@
+
+<div class="container">
+  <div class="row">
+    <div class="col-sm-6 col-md-4 col-md-offset-4">
+      <div class="account-wall">
+        <img class="header_logo" src="/assets/img/logo.png" alt="" />
+        <form class="form-signup" [formGroup]="registerForm" (submit)="onRegister()">
+        <label for="username" class="form-label">User Name</label>
+        <input
+          type="text"
+          class="form-control"
+          id="username"
+          required
+          autofocus
+          formControlName="userName"
+          [ngClass]="{ 'is-invalid': isValid('userName') }"
+        />
+        <div
+          class="invalid-feedback"
+          *ngIf="registerForm.get('userName')?.errors?.['required']"
+        >
+          UserName is required.
+        </div>
+        <div
+          class="invalid-feedback"
+          *ngIf="registerForm.get('userName')?.errors?.['minlength']"
+        >
+          UserName should be atleast 3 characters long.
+        </div>
+          <label for="email" class="form-label">Email</label>
+          <input
+            type="email"
+            class="form-control"
+            id="email"
+            required
+            formControlName="email"
+            [ngClass]="{ 'is-invalid': isValid('email') }"
+          />
+          <div
+            class="invalid-feedback"
+            *ngIf="registerForm.get('email')?.errors?.['required']"
+          >
+            Email is required.
+          </div>
+          <div
+            class="invalid-feedback"
+            *ngIf="registerForm.get('email')?.errors?.['email']"
+          >
+            Not a valid email address.
+          </div>
+          <label for="password" class="form-label">Password</label>
+          <input
+            type="password"
+            class="form-control"
+            id="password"
+            required
+            formControlName="password"
+            [ngClass]="{ 'is-invalid': isValid('userName') }"
+          />
+          <div
+            class="invalid-feedback"
+            *ngIf="registerForm.get('password')?.errors?.['required']"
+          >
+            Password is required.
+          </div>
+          <!-- <div
+            class="invalid-feedback"
+            *ngIf="registerForm.get('password')?.errors?.['pattern']"
+          >
+            1 Digit, 1 Uppercase, 1 Lowercase required.
+          </div> -->
+          <button class="btn btn-lg btn-primary btn-block" type="submit">
+            Sign up
+          </button>
+          <a href="#" class="pull-right need-help">Need help? </a
+          ><span class="clearfix"></span>
+        </form>
+      </div>
+      <a routerLink="/signin" class="text-center new-account">Already have an account </a>
+    </div>
+  </div>
+</div>

@@ -1,0 +1,43 @@
+apiVersion: networking.k8s.io/v1
+kind: Ingress
+metadata:
+  name: ingress-srv
+  annotations:
+    kubernetes.io/ingress.class: nginx
+    nginx.ingress.kubernetes.io/use-regex: 'true'
+  labels:
+    name: ingress-srv
+
+spec:
+  rules:
+    - host: flybuy.com
+      http:
+        paths:
+          - path: '/api/product'
+            pathType: Prefix
+            backend:
+              service:
+                name: products-clusterip-srv
+                port:
+                  number: 80
+          - path: /api/order
+            pathType: Prefix
+            backend:
+              service:
+                name: orders-clusterip-srv
+                port:
+                  number: 80
+          - path: /api/user
+            pathType: Prefix
+            backend:
+              service:
+                name: users-clusterip-srv
+                port:
+                  number: 80
+          - path: /api/shipping
+            pathType: Prefix
+            backend:
+              service:
+                name: shipping-clusterip-srv
+                port:
+                  number: 80

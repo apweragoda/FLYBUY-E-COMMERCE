@@ -1,0 +1,10 @@
+.header__logo a{
+    margin-top: 2.5%;
+    margin-left: 10rem;
+    font-size: 3em;
+    color: rgb(135, 210, 222);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    display: flex;
+    font-weight: bold;
+    justify-content: center;
+}
