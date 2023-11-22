@@ -19,21 +19,27 @@ FLY BUY is a comprehensive online shopping platform designed to deliver a seamle
 ## Repository Structure
 
 fly-buy/
+
 |-- 3-layer-architecture-api/
 | |-- ... (3-layer architecture API files)
 |
+
 |-- microservices/
 | |-- ... (Microservices files)
 |
+
 |-- angular-frontend/
 | |-- ... (Angular frontend files)
 |
+
 |-- database/
 | |-- ... (SQL scripts and configurations)
 |
+
 |-- docs/
 | |-- ... (Project documentation)
 |
+
 |-- .gitignore
 |-- CONTRIBUTING.md
 |-- LICENSE.md
