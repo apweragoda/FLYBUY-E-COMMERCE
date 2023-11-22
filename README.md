@@ -46,19 +46,19 @@ To explore and contribute to FLY BUY:
 
 1. Clone the repository:
 
-   git clone https://github.com/your-username/fly-buy.git
-Navigate to the specific backend architecture or microservices folder:
+   git clone https://github.com/apweragoda/FLYBUY-E-COMMERCE.git
+
+2. Navigate to the specific backend architecture or microservices folder:
 
 For 3-layer architecture API:
 
-
-cd fly-buy/3-layer-architecture-api/
+   cd fly-buy/3-layer-architecture-api/
+   
 For Microservices:
 
+   cd fly-buy/microservices/
 
-cd fly-buy/microservices/
-
-2. Follow the README in each directory for specific setup instructions.
+3. Follow the README in each directory for specific setup instructions.
 
 ##Contribution Guidelines
 If you wish to contribute to the project, please follow the guidelines outlined in [CONTRIBUTING.md].
